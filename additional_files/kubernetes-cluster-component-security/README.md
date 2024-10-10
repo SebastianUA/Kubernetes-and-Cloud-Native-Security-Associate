@@ -1,0 +1,1 @@
+# Kubernetes Cluster Component Security - 22%
